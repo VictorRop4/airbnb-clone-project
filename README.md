@@ -1,6 +1,6 @@
 #Airbnb clone Project
 I'm using this project to lear modern software development practices.
-Which includes Backend design architecture and Database principles.
+Which includes Backend design architecture and Database principles,
 #Team Roles
 -Business Analyst: They translate an abstract product idea into a set of tangible requirements
 -Product owner: Holds the responsibility of making sure the final product meets customer requirements
