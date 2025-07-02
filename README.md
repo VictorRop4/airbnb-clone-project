@@ -10,7 +10,7 @@ Software is developed by a team, with each member playing their dedicated role i
 -Quality assurance Engineers: Make sure an application performs according to requirements
 -Test automation Engineers: Write and maintain test scripts for automated testing
 -DevOps engineers: Build continuous integration and continuous delivery (CI/CD) pipelines for faster delivery
-#Tenology Stack
+#Technology Stack
 -Django: Back-end server-side web framework. 
 -MySQL: Creates a relationship between entities and implements the functionalities for creating, reading, updating, and deleting data through SQL queries or an API
 -GraphQL: Improve data fetching and performance, particularly in its mobile and web applications. GraphQL addresses challenges such as service-oriented architecture and data duplication, leading to faster page load times and more efficient data handling. 
